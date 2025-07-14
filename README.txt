@@ -12,15 +12,15 @@ Minimum in Sorted and Rotated Array
 Finding sum of digits of a number until sum becomes single digit
 Find All Triplets With Given Sum
 Container With Most Water
-Binary
 
+Binary
 Sum of Two Numbers Without Using Arithmetic Operators
 Number of 1 Bit
 Sum of All Subset XOR Totals
 Unique Number 1
 Total Hamming Distance
-Dynamic Programming
 
+Dynamic Programming
 Climbing Stairs to Reach the Top
 Coin Change (Minimum Coins)
 Longest Increasing Subsequence
@@ -33,8 +33,8 @@ Partition Equal Subset Sum
 Total Decoding Messages
 Grid Unique Paths
 Matrix Chain Multiplication
-Graph
 
+Graph
 Clone an Undirected Graph
 Islands in a Graph
 Word Ladder
@@ -43,29 +43,29 @@ Longest Consecutive Subsequence
 Alien Dictionary
 DFS
 BFS
-Interval
 
+Interval
 Job Sequencing Problem
 Overlapping Intervals
 Maximum Interval Overlap
 Meeting Rooms
 Minimum Platforms
-Linked List
 
+Linked List
 Rotate a Linked List
 Detect Loop in Linked List
 Merge Two Sorted Linked Lists
 Intersection Point in Y Shaped Linked Lists
 LRU Cache
 Sum Two Linked Lists
-Matrix
 
+Matrix
 Set Matrix Zeroes
 Spirally Traversing a Matrix
 Search in a row-wise and column-wise sorted
 Rotate a Matrix by 180 degree
-String
 
+String
 String to Integer - Your Own atoi()
 Longest Repeating Character Replacement
 Smallest Window in a String Containing All the Characters of Another String
@@ -75,8 +75,8 @@ Palindrome Sentence
 Longest Palindromic Substring
 First Non-Repeating Character
 CamelCase Pattern Matching
-Tree
 
+Tree
 Height of Binary Tree
 Diameter of a Tree
 Mirror Tree
@@ -91,8 +91,8 @@ Lowest Common Ancestor in a BST
 Insert and Search in a Trie
 Distribute candies in a Binary Tree
 Symmetric Tree
-Heap
 
+Heap
 K Largest Elements
 Sort a nearly sorted (or K sorted) array
 Find Median in a Stream
